@@ -1,6 +1,6 @@
 # Task
 
-Create program with following feaatures:
+Create program with following features:
 1. Make *string array*
 2. Create **new string array** with every string in *string array* witch less or equial than 3 chars
 3. You can input strings from keyboard or use existing string array
